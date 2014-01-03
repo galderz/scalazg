@@ -5,7 +5,7 @@ import Scalaz._
 import scalazg.S
 
 /**
- * Exercising code in: http://eed3si9n.com/learning-scalaz/
+ * http://eed3si9n.com/learning-scalaz/
  */
 object Typeclasses101 extends App {
 

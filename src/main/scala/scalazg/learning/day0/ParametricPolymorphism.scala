@@ -3,7 +3,7 @@ package scalazg.learning.day0
 import scalazg.S
 
 /**
- * Exercising code in: http://eed3si9n.com/learning-scalaz/
+ * http://eed3si9n.com/learning-scalaz/
  */
 object ParametricPolymorphism extends App {
 
